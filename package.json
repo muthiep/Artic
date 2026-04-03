@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/cli": "^4.2.1",
+    "flowbite": "^4.0.1",
+    "tailwindcss": "^4.2.1"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.2.458",
+    "@iconify/tailwind4": "^1.2.3"
+  }
+}
